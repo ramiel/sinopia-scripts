@@ -12,6 +12,12 @@ This script run sinopia under `sinopia` user, you should create it
 adduser --no-create-home --disabled-login sinopia
 ```
 
+Copy service to init.d
+
+```bash
+sudo cp service/sinopia /etc/init.d/sinopia
+```
+
 We need also some directories to store configuration and packages
 
 ```bash
