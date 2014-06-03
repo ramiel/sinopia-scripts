@@ -30,6 +30,12 @@ sudo chmod g+w /etc/sinopia/storage
 
 You should modify `/etc/sinopia/config.yaml` for your needs
 
+Start it!
+
+```bash
+sudo /etc/init.d/sinopia start
+```
+
 Author
 -----
 
