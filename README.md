@@ -24,7 +24,7 @@ We need also some directories to store configuration and packages
 sudo mkdir /etc/sinopia
 sudo mkdir /etc/sinopia/storage
 sudo mv config.yaml /etc/sinopia/
-sudo chown root:sinopia /etc/sinopia/ -R
+sudo chown sinopia:sinopia /etc/sinopia/ -R
 sudo chmod g+w /etc/sinopia/storage
 ```
 
