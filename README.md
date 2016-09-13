@@ -1,7 +1,7 @@
 SINOPIA SERVICE
 ===============
 
-Script for running [sinopia](https://github.com/rlidwka/sinopia/) server as demon
+Script for running [sinopia](https://github.com/rlidwka/sinopia/) server as daemon
 
 User
 ----
