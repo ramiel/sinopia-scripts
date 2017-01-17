@@ -16,6 +16,7 @@ Copy service to init.d
 
 ```bash
 sudo cp service/sinopia /etc/init.d/sinopia
+sudo chmod +x /etc/init.d/sinopia
 ```
 
 We need also some directories to store configuration and packages
